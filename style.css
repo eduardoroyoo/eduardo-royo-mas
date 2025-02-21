@@ -74,7 +74,7 @@ main {
 
 /* Hero Section with Background Image */
 header {
-    background: url("/Images/Senate-House-07182023_114027.jpg") no-repeat center center/cover; /* Background image */
+    background: url("Images/Senate-House-07182023_114027.jpg") no-repeat center center/cover; /* Background image */
     color: white;
     text-align: center;
     padding: 120px 0 40px; /* Adjusted for navigation bar */
