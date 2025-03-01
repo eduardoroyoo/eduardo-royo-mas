@@ -71,15 +71,16 @@ nav ul li a:hover {
     display: none;
     font-size: 2rem;
     cursor: pointer;
+    color: white;
+    margin-left: auto; /* Pushes it to the right */
 }
 
 /* Mobile Navigation */
 @media (max-width: 768px) {
     .menu-toggle {
         display: block;
-        position: absolute;
+        position: relative;
         right: 20px;
-        top: 15px;
         color: white;
     }
 
