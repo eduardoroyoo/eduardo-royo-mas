@@ -22,15 +22,18 @@ body {
 
 /* Navigation Bar */
 nav {
-    background-color: #003366; /* Harvard-inspired dark blue */
-    padding: 10px 0; /* Adjusted padding */
+    background-color: #003366;
+    padding: 10px 20px;
     color: white;
     position: fixed;
     width: 100%;
     top: 0;
     left: 0;
     z-index: 1000;
-    height: 60px; /* Ensure this matches the padding-top value in main */
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 nav .container {
