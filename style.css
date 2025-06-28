@@ -9,7 +9,7 @@
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f4f4f4; /* Light gray background */
-    color: #333; /* Dark text color for readability */
+    color: #1f1f1f; /* Dark text color for readability */
     line-height: 1.6;
 }
 
@@ -22,7 +22,7 @@ body {
 
 /* Navigation Bar */
 nav {
-    background-color: #003366; /* Harvard-inspired dark blue */
+    background-color: #00114a; /* Harvard-inspired dark blue */
     padding: 10px 0; /* Adjusted padding */
     color: white;
     position: fixed;
@@ -64,7 +64,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ffcc00; /* Accent color */
+    color: #540000; /* Accent color */
 }
 
 /* Hamburger Menu */
@@ -91,7 +91,7 @@ nav ul li a:hover {
         position: absolute;
         top: 60px;
         right: 0;
-        background-color: #003366;
+        background-color: #00114a;
         width: 100%;
         text-align: center;
     }
@@ -139,14 +139,14 @@ header .profile-photo {
 }
 
 header p a {
-    color: #ffcc00;
+    color: #540000;
     text-decoration: none;
     font-weight: bold;
 }
 
 header .cta-button {
-    background-color: #ffcc00; /* Accent color */
-    color: #003366; /* Dark blue text for contrast */
+    background-color: #540000; /* Accent color */
+    color: #00114a; /* Dark blue text for contrast */
     text-decoration: none;
     padding: 12px 30px; /* Adjust the padding for a better button size */
     font-size: 1.2rem;
@@ -157,7 +157,7 @@ header .cta-button {
 }
 
 header .cta-button:hover {
-    background-color: #003366; /* Dark blue background on hover */
+    background-color: #00114a; /* Dark blue background on hover */
     color: white;
     transform: translateY(-3px); /* Button lift effect */
 }
@@ -206,7 +206,7 @@ header .cta-button:active {
 
 #about h2 {
     font-size: 2.5rem;
-    color: #003366;
+    color: #00114a;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -221,20 +221,20 @@ header .cta-button:active {
 
 /* Resume Section */
 #resume {
-    background-color: #f9f9f9;
+    background-color: #ffffff;
     padding: 60px 0;
 }
 
 #resume h2 {
     font-size: 2.5rem;
-    color: #003366;
+    color: #00114a;
     text-align: center;
     margin-bottom: 40px;
 }
 
 #resume h3 {
     font-size: 1.8rem;
-    color: #003366;
+    color: #00114a;
     margin-bottom: 10px;
 }
 
@@ -250,7 +250,7 @@ header .cta-button:active {
 }
 
 #resume ul li strong {
-    color: #003366;
+    color: #00114a;
 }
 
 /* Projects Section */
@@ -261,7 +261,7 @@ header .cta-button:active {
 
 #projects h2 {
     font-size: 2.5rem;
-    color: #003366;
+    color: #00114a;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -277,13 +277,13 @@ header .cta-button:active {
 
 #projects ul li a {
     font-size: 1.2rem;
-    color: #003366;
+    color: #00114a;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 #projects ul li a:hover {
-    color: #ffcc00; /* Hover effect */
+    color: #540000; /* Hover effect */
 }
 
 /* Contact Section */
@@ -294,7 +294,7 @@ header .cta-button:active {
 
 #contact h2 {
     font-size: 2.5rem;
-    color: #003366;
+    color: #00114a;
     text-align: center;
     margin-bottom: 40px;
 }
@@ -311,17 +311,17 @@ header .cta-button:active {
 }
 
 #contact ul li a {
-    color: #003366;
+    color: #00114a;
     text-decoration: none;
 }
 
 #contact ul li a:hover {
-    color: #ffcc00; /* Accent color */
+    color: #540000; /* Accent color */
 }
 
 /* Footer Section */
 footer {
-    background-color: #003366;
+    background-color: #00114a;
     color: white;
     padding: 20px 0;
     text-align: center;
