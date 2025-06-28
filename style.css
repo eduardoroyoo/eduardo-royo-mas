@@ -64,7 +64,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #b6d8ec; /* Accent color */
+    color: #585858; /* Accent color */
 }
 
 /* Hamburger Menu */
@@ -139,14 +139,14 @@ header .profile-photo {
 }
 
 header p a {
-    color: #b6d8ec;
+    color: #585858;
     text-decoration: none;
     font-weight: bold;
 }
 
 header .cta-button {
     background-color:  #00113d; /* Accent color */
-    color: #f1f1f1; /* Dark blue text for contrast */
+    color: #f1f1f1; /* light text for contrast */
     text-decoration: none;
     padding: 12px 30px; /* Adjust the padding for a better button size */
     font-size: 1.2rem;
@@ -157,7 +157,7 @@ header .cta-button {
 }
 
 header .cta-button:hover {
-    background-color: #b6d8ec; /* Light blue background on hover */
+    background-color: #585858; /* Light blue background on hover */
     color: white;
     transform: translateY(-3px); /* Button lift effect */
 }
@@ -283,7 +283,7 @@ header .cta-button:active {
 }
 
 #projects ul li a:hover {
-    color: #b6d8ec; /* Hover effect */
+    color: #585858; /* Hover effect */
 }
 
 /* Contact Section */
@@ -316,7 +316,7 @@ header .cta-button:active {
 }
 
 #contact ul li a:hover {
-    color: #b6d8ec; /* Accent color */
+    color: #585858; /* Accent color */
 }
 
 /* Footer Section */
