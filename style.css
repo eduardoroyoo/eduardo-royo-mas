@@ -145,7 +145,7 @@ header p a {
 }
 
 header .cta-button {
-    background-color: #540000; /* Accent color */
+    background-color:  #b3cde0; /* Accent color */
     color: #00114a; /* Dark blue text for contrast */
     text-decoration: none;
     padding: 12px 30px; /* Adjust the padding for a better button size */
@@ -173,7 +173,7 @@ header .cta-button:active {
     border-radius: 50%; /* Makes it round */
     object-fit: cover;
     margin-top: 20px; /* Adds spacing below the button */
-    border: 4px solid white; /* Optional: Adds a nice border */
+    border: 1px solid white; /* Optional: Adds a nice border */
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow */
 }
 /* Align profile photo to the left of the text */
@@ -186,8 +186,8 @@ header .cta-button:active {
 }
 
 .hero-profile-photo {
-    width: 120px; /* Adjust size as needed */
-    height: 120px;
+    width: 140px; /* Adjust size as needed */
+    height: 140px;
     border-radius: 50%; /* Makes it round */
     object-fit: cover;
     border: 4px solid white; /* Optional: Adds a nice border */
