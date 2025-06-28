@@ -22,7 +22,7 @@ body {
 
 /* Navigation Bar */
 nav {
-    background-color: #00114a; /* Harvard-inspired dark blue */
+    background-color: #00113d; /* Harvard-inspired dark blue */
     padding: 10px 0; /* Adjusted padding */
     color: white;
     position: fixed;
@@ -91,7 +91,7 @@ nav ul li a:hover {
         position: absolute;
         top: 60px;
         right: 0;
-        background-color: #00114a;
+        background-color: #00113d;
         width: 100%;
         text-align: center;
     }
@@ -145,7 +145,7 @@ header p a {
 }
 
 header .cta-button {
-    background-color:  #00114a; /* Accent color */
+    background-color:  #00113d; /* Accent color */
     color: #f1f1f1; /* Dark blue text for contrast */
     text-decoration: none;
     padding: 12px 30px; /* Adjust the padding for a better button size */
@@ -206,7 +206,7 @@ header .cta-button:active {
 
 #about h2 {
     font-size: 2.5rem;
-    color: #00114a;
+    color: #00113d;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -227,14 +227,14 @@ header .cta-button:active {
 
 #resume h2 {
     font-size: 2.5rem;
-    color: #00114a;
+    color: #00113d;
     text-align: center;
     margin-bottom: 40px;
 }
 
 #resume h3 {
     font-size: 1.8rem;
-    color: #00114a;
+    color: #00113d;
     margin-bottom: 10px;
 }
 
@@ -250,7 +250,7 @@ header .cta-button:active {
 }
 
 #resume ul li strong {
-    color: #00114a;
+    color: #00113d;
 }
 
 /* Projects Section */
@@ -261,7 +261,7 @@ header .cta-button:active {
 
 #projects h2 {
     font-size: 2.5rem;
-    color: #00114a;
+    color: #00113d;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -277,7 +277,7 @@ header .cta-button:active {
 
 #projects ul li a {
     font-size: 1.2rem;
-    color: #00114a;
+    color: #00113d;
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -294,7 +294,7 @@ header .cta-button:active {
 
 #contact h2 {
     font-size: 2.5rem;
-    color: #00114a;
+    color: #00113d;
     text-align: center;
     margin-bottom: 40px;
 }
@@ -311,7 +311,7 @@ header .cta-button:active {
 }
 
 #contact ul li a {
-    color: #00114a;
+    color: #00113d;
     text-decoration: none;
 }
 
@@ -321,7 +321,7 @@ header .cta-button:active {
 
 /* Footer Section */
 footer {
-    background-color: #00114a;
+    background-color: #00113d;
     color: white;
     padding: 20px 0;
     text-align: center;
